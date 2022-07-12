@@ -15,6 +15,7 @@ At Arctic Desert we set out to create an intuitive app that aids developer teams
 			width="36"
 			height="36"
 			alt="TypeScript"
+			title="TypeScript"
 	/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"
 		><img
@@ -22,6 +23,7 @@ At Arctic Desert we set out to create an intuitive app that aids developer teams
 			width="36"
 			height="36"
 			alt="React"
+			title="React"
 	/></a>
 	<a href="https://redux.js.org/" target="_blank" rel="noreferrer"
 		><img
@@ -29,6 +31,7 @@ At Arctic Desert we set out to create an intuitive app that aids developer teams
 			width="36"
 			height="36"
 			alt="Redux"
+			title="Redux"
 	/></a>
 </p>
 
@@ -44,6 +47,7 @@ At Arctic Desert we set out to create an intuitive app that aids developer teams
 			width="36"
 			height="36"
 			alt="JavaScript"
+			title="JavaScript"
 	/></a>
    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
 		><img
@@ -51,6 +55,7 @@ At Arctic Desert we set out to create an intuitive app that aids developer teams
 			width="36"
 			height="36"
 			alt="PostgreSQL"
+			title="PostgreSQL"
 	/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"
 		><img
@@ -58,6 +63,7 @@ At Arctic Desert we set out to create an intuitive app that aids developer teams
 			width="36"
 			height="36"
 			alt="Express"
+			title="Express"
 	/></a>
    <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"
 		><img
@@ -65,6 +71,7 @@ At Arctic Desert we set out to create an intuitive app that aids developer teams
 			width="36"
 			height="36"
 			alt="Heroku"
+			title="Heroku"
 	/></a>
    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"
 		><img
@@ -72,6 +79,7 @@ At Arctic Desert we set out to create an intuitive app that aids developer teams
 			width="36"
 			height="36"
 			alt="AWS"
+			title="AWS"
 	/></a>
 </p>
 
